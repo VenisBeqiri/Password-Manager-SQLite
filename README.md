@@ -2,6 +2,8 @@
 
 ![Static Badge](https://img.shields.io/badge/Database-SQLite-orange)
 ![Static Badge](https://img.shields.io/badge/Python-blue)
+
+
 ![main](https://github.com/user-attachments/assets/0b268e29-bb2b-47db-8575-98db14412f32)
 
 **Password Manager** is a simple tool that helps securely store your passwords in a local database as hashes using SQLite.
