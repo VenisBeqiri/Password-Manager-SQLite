@@ -1,11 +1,11 @@
 # Password Manager SQLite
-![Alt text](file:///C:/Users/gyli_/OneDrive/Documents/Desktop/main.png)
+![plot](file:///C:/Users/gyli_/OneDrive/Documents/Desktop/main.png)
 ![Static Badge](https://img.shields.io/badge/Database-SQLite-orange)
 ![Static Badge](https://img.shields.io/badge/Python-blue)
 
 **Password Manager** is a simple tool that helps securely store your passwords in a local database as hashes using SQLite.
 
-![Alt text](file:///C:/Users/gyli_/OneDrive/Documents/Desktop/main%202.png)
+![plot](file:///C:/Users/gyli_/OneDrive/Documents/Desktop/main%202.png)
 
 ## Installation
 
